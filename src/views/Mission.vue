@@ -8,17 +8,25 @@
 
       <div class="flex mb-4">
         <div class="w-full bg-gray-800  ">
+
           <div class="m-6 p-4 bg-gray-100">
 
-           Our Mission: ETH Detroit
-
-          </div>
 
 
-          <div class=" bg-gray-300  ">
-            Lalalala
-         </div>
 
+            <h3 class="text-lg font-bold"> Our Mission: ETH Detroit</h3>
+
+
+            <div class="container mt-8">
+                Lalalala
+
+            </div>
+
+        </div>
+
+
+
+         
 
         </div>
 
