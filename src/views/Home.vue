@@ -29,7 +29,7 @@
 
 
 
-				<div class="absolute t-0" >
+				<div class="absolute " style="top:0">
 
 					<div class="m-4 p-4 text-white inline-block  " style="background: #3339">
 							The Ethereum Network is the future of the internet.
