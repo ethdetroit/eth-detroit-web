@@ -1,8 +1,7 @@
 {
   "name": "eth-detroit-web",
   "description": "Community website to promote blockchain education.",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.0", 
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",

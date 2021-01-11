@@ -1,8 +1,6 @@
-# Invader.Finance
+# ETH Detroit
 
-Yield farming tool for generating revenue using 0xBTC tokens, taking advantage of Uniswap Liquidity Pooling fees.
-
-This dapp is deployed at invader.finance
+ 
 
 
 
@@ -15,4 +13,3 @@ npm run serve
 
 
 ## Development Checklist
- 

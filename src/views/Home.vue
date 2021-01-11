@@ -8,14 +8,16 @@
 	<div id="progress" class="h-1 z-20  " style="background: linear-gradient(to right, rgb(0, 0, 0), #edfffdd1);"></div>
 -->
 
-		<div class="w-full mx-auto flex flex-wrap items-center justify-between mt-0 py-3 bg-gray-700 px-4">
+		<div class="w-full mx-auto flex flex-wrap items-center justify-between mt-0 py-3 bg-gray-300 px-4">
 
 			<div class="pl-4">
-				<img  src="@/assets/img/invader_sm.png" alt="ETH avatar" class="rounded-full h-6 w-6 inline-block">
+				<img  src="@/assets/img/ethlogo1_sm.png" alt="ETH avatar" class="rounded-full h-6 w-6 inline-block" style="vertical-align: sub;">
 
 
-				<a class="text-green-400 text-base no-underline hover:no-underline font-extrabold text-xl"  href="#">
-					ETH Detroit
+				<a class="text-gray-800 text-base no-underline hover:no-underline font-extrabold text-xl inline-block"  href="#">
+
+						ETH Detroit
+
 				</a>
       </div>
 
@@ -32,7 +34,7 @@
 
   <div class="flex mb-4">
 
-    <div class="w-full bg-gray-300  ">
+    <div class="w-full bg-gray-800  ">
       <div class="m-6 p-4 bg-gray-100">
 
 
