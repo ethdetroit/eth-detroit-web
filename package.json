@@ -1,15 +1,15 @@
 {
-  "name": "matic-0xbtc-wallet",
-  "description": "Web wallet for 0xBTC for the Ethereum and Matic Networks",
+  "name": "eth-detroit-web",
+  "description": "Community website to promote blockchain education.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "express": "node express.js",
+    "deploy": "node deploy.js"
   },
   "dependencies": {
-    "@maticnetwork/maticjs": "2.0.6-beta.0",
     "core-js": "^2.6.5",
     "portal-vue": "^2.1.0",
     "tailwindcss": "^1.0.0-beta.4",
@@ -24,6 +24,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
+    "gh-pages": "^3.1.0",
     "vue-template-compiler": "^2.5.21"
   }
 }
